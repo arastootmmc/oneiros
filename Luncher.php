@@ -1,5 +1,5 @@
 <?php
-/*
+/*1611569299:AAHKrbLKMPoW-JXn15lb-Sofxnkely4vdq8
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
